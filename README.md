@@ -1,1 +1,1 @@
-# FrontEndMentor.io
+# Stats preview card component
